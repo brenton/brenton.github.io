@@ -15,7 +15,8 @@ be really annoying and I'm working on that.  In fact, I'm writing this page in
 an attempt to avoid more such awkward moments.
 
 <ul>
-  {% for book in site.books %}
+  {% assign books = site.books | sort: "rating" | reverse %}
+  {% for book in books %}
     <li>
       <a href="{{ book.url }}">{{ book.title }}</a>
       <p>Rating: {{ book.rating }}/10</p>
