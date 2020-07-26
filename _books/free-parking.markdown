@@ -5,6 +5,8 @@ author: Donald Shoup
 rating: 5
 ---
 
+Author: {{ page.author}}
+
 *Me*: "I just read a fantastic book!"
  
 *Friend*: "Tell me more!  I do love fantastic books. What's it about?"
