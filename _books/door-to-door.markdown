@@ -36,7 +36,13 @@ to my rating.
 
 Miscellaneous things I remember roughly a year later:
 * Domino's Pizza is a logistics company.  Pizza is their side hustle.
-* Cival War soldiers in the US drank better coffee than my grandparents.
+* Aluminum is the only material that costs less to recycle than produce and
+  this has profound implications on our lives.  Most of the aluminum you've
+ever drank from was probably mined decades.  After throwing it in the recycling
+bin there's a high probability it will make it's way back on a store shelf
+within two months.  The supply is just that good.
+* Cival War soldiers in the US drank better coffee than my parents did, at
+  least until the 90s or so.
 * The majority of everything we get from Asia comes through Los Angeles.  It's
   so critical that Congress gets involved when things slow down.  It also
   happens to be the biggest port in the world by a few metrics.
@@ -44,7 +50,15 @@ Miscellaneous things I remember roughly a year later:
 * The vast majority of container ships in the world are owned by Danish
   companies.  They ship nearly everything the entire world uses.  Practically
   nothing related to this critical industry is in US control (eg, You can't buy
-  MUSA shipping container cranes, nor ships, etc)
+  MUSA shipping container cranes, nor ships, etc).
+* As much as people like to complain about how polution from factories is
+  destroying the world or how car emissions are going to give us all lung
+cancer, pollution from the shipping industry is every bit as harmful but it's
+almost completely unregulated and never factors in to the scary carbon
+emissions graphs that get passed around the internet.  Why?  Because apparently
+no one cares about what happens in international waters.   The 6,000 or so
+container ships contribute around 95% of sulfur dioxide emissions.  The rest I
+believe comes from motor vehicles (if I remember correctly).
 * The containers we ship our stuff in are far better engineered for safety than
   the containers we ship ourselves in (cars).  The chapter on our road network
   made me cry.  I wasn't prepared for the manner in which the author was going
