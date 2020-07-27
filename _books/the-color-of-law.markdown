@@ -26,9 +26,11 @@ lived through.  At the time I would not have been able to understand how
 minorities suffered disproportionately in the face of American greed.
 
 At one point I put the book down, navigated to my local governments online
-Registrar of Deeds just to see for myself the sort of racism that divided my
-city.  Moments later I found a 1917 deed for the sell of a home downtown
-Raleigh wherein the "Restrictive Covenent" excluded anyone that is not white.
+Registrar of Deeds just to [see for
+myself](https://twitter.com/brentonson/status/1095484786762756096/photo/1) the
+sort of racism that divided my city.  Moments later I found a 1917 deed for the
+sell of a home downtown Raleigh wherein the "Restrictive Covenent" excluded
+anyone that is not white.
 
 I will admit I can get furious about this topic, especially when I see it
 playing out right before my eyes.  If this is hard for you to discuss with
