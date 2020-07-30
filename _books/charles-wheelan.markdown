@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Naked Statistics, Naked Economics, Naked Money
+title: Naked Statistics | Naked Economics | Naked Money
 author: Charles Wheelan
 rating: 7
 ---

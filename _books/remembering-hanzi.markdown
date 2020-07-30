@@ -5,6 +5,8 @@ rating: 10
 author: Heisig & Richardson
 ---
 
+Author: {{ page.author}}
+
 I suspect I'll eventually write a number of posts on the subject of learning foreign languages.  For now, if you desire to learn one of the most widely spoken languages in the world, this is one of the few books you need.  Surprisingly, given that I just hinted at this book helping you speak Mandarin Chinese, it is completely divorced from spoken language!  The premise of this book is that there are extraordinary benefits from starting your language journey by learning the "hardest part" first.
 
 What do I mean by this?  Well, normally if you are learning Chinese you'll start by focusing on some simple phrases and vocabulary.  To keep you from getting discouraged, your teacher will mostly likely represent the sounds in one of the most popular romanizations, Pinyin.  However, knowing the onerous task before you, your teacher will soon begin introducing you to Chinese characters little by little.  First week maybe a handful: 一, 二, 三.  That's not so bad and in the second week you'll get a few more.   After a few short *years* you graduate to phrases like 魑魅魍魉 and will almost be able to read a newspaper!  No, not a newspaper in Traditional Chinese, but at least one in Simplified (used by most of mainland China).  Of course, if you slack off while slogging on this journey your hard won characters will exit your brain faster than a bullet train out of Beijing.
