@@ -24,15 +24,16 @@ There would be many more connections.  One night—after and hour and a half of 
 
 I can't believe I had never made the connection.  My wife and I love date night's at any [Seaboard Station](https://seaboardstationshops.com/) restuarant, but I never thought about where the name _Seaboard_ came from.  Lil George had loaded tons of luggage in a building that now serves as our favorite [garden shop](https://www.logantrd.com/our-history-vision).  My luxury was his burden.  I can't believe I had never made the connection.
 
+<!--
+"We grow collards in our backyard just like them", 
 
-#"We grow collards in our backyard just like them", 
+As we came to the end of the book an overwhelming sense of sorrow weighed on me much like the hundred pound sack of cotton Ida Mae's husband would carry in the fields.  I was alive during the last years of all three of the main character's.  I knew how the story was going to end and it's more clear than ever that we haven't solved our problems yet.   
 
-#As we came to the end of the book an overwhelming sense of sorrow weighed on me much like the hundred pound sack of cotton Ida Mae's husband would carry in the fields.  I was alive during the last years of all three of the main character's.  I knew how the story was going to end and it's more clear than ever that we haven't solved our problems yet.   
+We grow collards in our yard.
 
-#We grow collards in our yard.
+comes from the fact that I've spent so much of my life in the South.  
 
-#comes from the fact that I've spent so much of my life in the South.  
+For me some of the emotion ... I feel like I know Ida Mae, George and Pershing more than my own parents.
 
-#For me some of the emotion ... I feel like I know Ida Mae, George and Pershing more than my own parents.
-
-#stopped and told my kids to sit nearby and I that was going to read to them a book that mattered.  I wasn't prepared for what was to follow.  Over the next five hundred pages 
+stopped and told my kids to sit nearby and I that was going to read to them a book that mattered.  I wasn't prepared for what was to follow.  Over the next five hundred pages 
+-->

@@ -19,6 +19,8 @@ on how these books have benefitted me, here's the elevator pitch:
 
 Deep Work is probably the most popular, but read So Good first.
 
-#mention changes I've made as a result.
-#general summary of each book but focus on the surprises (like how it relates to parenting)
-#A coworker recommended Deep Work to me what may have been years ago.
+<!--
+mention changes I've made as a result.
+general summary of each book but focus on the surprises (like how it relates to parenting)
+A coworker recommended Deep Work to me what may have been years ago.
+-->
