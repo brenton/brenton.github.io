@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Book Reviews
+title: Book Notes
 permalink: /books/
 ---
 
