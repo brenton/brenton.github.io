@@ -22,7 +22,7 @@ On some evenings I couldn't hold back tears.  So much cruelty.  So much murder. 
 
 There would be many more connections.  One night—after and hour and a half of reading aloud to my kids—I took a quick glance at the local news.  I was drawn to an article about [a nearby historical train roundhouse](https://www.wral.com/raleighs-lost-train-roundhouse-century-old-footprint-from-steam-era-hidden-in-downtown/19199462/).  "Seaboard Air Line Railway?  Where have I heard that before?"  A state of disbelief took hold.  "That's the rail line where Lil George worked!", I shouted to my kids and my wife—who was trying to begin her evening ritual of relaxation.  "He worked on the Seaboard Air Line Railway traveling up and down the east coast.  Do you know what this means?  Lil George used to come through Raleigh!"
 
-I can't believe I had never made the connection.  My wife and I love date night's at any [Seaboard Station](https://seaboardstationshops.com/) restuarant, but I never thought about where the name _Seaboard_ came from.  Lil George had loaded tons of luggage in a building that now serves as our favorite [garden shop](https://www.logantrd.com/our-history-vision).  My luxury was his burden.  I can't believe I had never made the connection.
+I can't believe I had never made that connection.  My wife and I love date night's at any [Seaboard Station](https://seaboardstationshops.com/) restuarant, but I never thought about where the name _Seaboard_ came from.  Lil George had loaded tons of luggage in a building that now serves as our favorite [garden shop](https://www.logantrd.com/our-history-vision).  My luxury was his burden.  I can't believe I had never made _that_ connection.
 
 <!--
 "We grow collards in our backyard just like them", 
