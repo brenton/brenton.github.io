@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Remembering Simplified Hanzi (books 1 and 2)
-rating: 10
+rating: 7
 author: Heisig & Richardson
 ---
 
