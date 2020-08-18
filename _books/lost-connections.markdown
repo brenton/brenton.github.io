@@ -31,12 +31,17 @@ In the same way, {{ page.author }} shows the latest research on how surprisingly
 
 Anytime a remedy only works for a short period of time before requiring increasing dosages, we should at least wonder if the Placebo Effect is actually doing the working.  I found this so interesting that, after reading _{{ page.title }}_, I checked out everything I could on the Placebo Effect at my local library.  I'll have to write about those books next but for now I'll leave you with a teaser from [Dan Ariely](https://today.duke.edu/2008/03/placeboprice.html).  "The placebo effect is one of the most fascinating, least harnessed forces in the universe."
 
-Like Hari, I wish these pills mostly worked in the long run.  It would make things so much simpler.  If someone could convince me a pill would speed up my recovery right now I'd probably take it too—and maybe skimp on the months of physical therapy.   
+Like Hari, I wish these pills mostly worked in the long run.  It would make things so much simpler.  If someone could convince me a pill would fix my foot right now I'd probably take it—and maybe skimp on the months of physical therapy.  While that perfect pill does not exist, I could, however, take one for the pain and be freed in an instant.  To celebrate, perhaps I would go for a walk.
+
+My swollen foot is trying to tell me something if I'm willing to listen. It's saying leave me alone.  Treating symptoms isn't going to solve this problem.  But that's exactly where we stop with anxiety and depression.  Just give me the pill.  Pay no attention to fact that I spend most of my strength staring a screen.  Of that my city is designed to be isolating.  Or the last time I hugged a friend was eight months ago.
+
+cars are the ultimate social distancing tool.
+
 
 The evidence shows that our depression and anxiety are largely problems of our environment.  Just as it's reasonable to treat my foot's swelling if it prevents me from making progress with therapy, Hari would agree there is a small place for pills.
 
 The real value of the work lies in Parts Two and Three.  
 
-
 A seemingly minor disconnection for a part I never before appreciated.
+
 -->
