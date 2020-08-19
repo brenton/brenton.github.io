@@ -24,7 +24,7 @@ changing environment is harder than taking a pill
 talk about importance of this research and quarantine, crippled life.
 -->
 
-It's afternoon on a slow Sunday and I'm thinking about {{ page.author }}'s _{{ page.title }}_.  I've had an unusual amount of time to reflect on my last year's worth of reading.  Seven days ago around this time I was limping home in my wife's arms after spraining my ankle playing soccer with my kids.
+It's afternoon on a slow Sunday and I'm thinking about {{ page.author }}'s _{{ page.title }}_.  I've had an unusual amount of time to reflect on my last year of reading.  Seven days ago around this time I was limping home in my wife's arms after spraining my ankle playing soccer with my kids.
 
 Turns out I broke my 5th metatarsal.  That small little bump on the bottom right side of my right foot connects several important tendons and ligaments that provide stability.  My two-hundred and five other bones are doing just fine, but this small one took me down.
 
