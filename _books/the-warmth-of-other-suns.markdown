@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Warm of Other Suns
+title: The Warmth of Other Suns
 rating: 10
 author: Isabel Wilkerson
 subtitle: The Epic Story of America's Great Migration
