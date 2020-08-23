@@ -26,5 +26,5 @@ Well played, kids.  Give your armchair economist dad a taste of his espoused mar
 
 But oh how quickly the economist forgets that even they have two hands!  Our world may be heavily skewed towards our egoistic rational right hand, but the oft shunned irrational left, likewise, holds society together.  Known more broadly as behavioral economics, this hand is the bond that leads us to rescue a stranded friend for a high five instead of a fiver.
 
-So that's it.  I'll buy a Dan Ariely box set for each of my kids—irrationality to my rescue.  I just know they'll love it.  After all, I rated these books a {{ page.rating }} (congratulations Dan—that's no small feat).
+So that's it.  I'll buy a Dan Ariely box set for each of my kids—that's way cheaper than buy icepacks.  I just know they'll love it.  After all, I rated these books a {{ page.rating }} (congratulations Dan—that's no small feat).
 
