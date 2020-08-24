@@ -10,11 +10,9 @@ rating: 7
 
 Author: {{ page.author}}
 
-No Small Feet
-
 I don't like going to the doctor.  But I'll do anything to show my wife how much I love her. Fifteen years ago that day we said the words, "in sickness and in health"—and I, for one, meant it.  What more romantic way to put flesh on those worn words than to break my foot.
 
-"Look what I got you babe, radiographs of my metatarsals!  I knew you like a man with a big foot", I boasted—puffing my chest as much as I could while grasping my crutches.
+"Look what I got you babe, radiographs of my metatarsals!", I boasted—puffing my chest as much as I could while grasping my crutches.
 
 "Oh honey, you shouldn't have!", my wife exclaimed. "Been playing soccer at your age", she continued.
 
