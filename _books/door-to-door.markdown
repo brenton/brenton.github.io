@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: book
 title: Door To Door
 subtitle: The Magnificent, Maddening, Mysterious World of Transportation
 author: Edward Humes

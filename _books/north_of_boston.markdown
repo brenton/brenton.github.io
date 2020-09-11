@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: book
 title: North of Boston
 author: Robert Frost
 rating: 8

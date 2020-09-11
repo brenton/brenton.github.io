@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: book
 title: Chasing The Scream
 subtitle: The First and Last Days of the War on Drugs
 rating: 10

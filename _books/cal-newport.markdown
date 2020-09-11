@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: book
 title: Deep Work | Digital Minimalism | So Good They Can't Ignore You
 author: Cal Newport
 rating: 9

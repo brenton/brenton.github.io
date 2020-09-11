@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: book
 title: Better Buses Better Cities
 author: Steven Higashide
 subtitle: How to Plan, Run, and Win the Fight for Effective Transit

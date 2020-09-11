@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: book
 title: The High Cost of Free Parking
 author: Donald Shoup 
 rating: 5

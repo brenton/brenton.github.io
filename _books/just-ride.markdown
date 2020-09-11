@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: book
 title: Just Ride
 rating: 6
 author: Grant Petersen

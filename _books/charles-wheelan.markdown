@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: book
 title: Naked Statistics | Naked Economics | Naked Money
 author: Charles Wheelan
 rating: 7
