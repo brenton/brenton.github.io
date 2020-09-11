@@ -5,8 +5,6 @@ author: Charles Wheelan
 rating: 7
 ---
 
-Author: {{ page.author}}
-
 I'm pretty sure I read Naked Statistics first but I don't entirely remember
 which order I read these three books in.  Charles has a style of writing that
 can take a mind-numbingly boring topic and make it fun to read, even hilarious

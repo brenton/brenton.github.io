@@ -1,14 +1,10 @@
 ---
-layout: page
+layout: book
 title: Traffic
 subtitle: Why We Drive the Way We Do (and What It Says About Us)
 author: Tom Vanderbilt
 rating: 6
 ---
-
-*{{ page.subtitle }}*
-
-Author: {{ page.author}}
 
 I read this book in early 2019, probably the same month I read [Door to
 Door]({% link _books/door-to-door.markdown %}).  In my mind these two books are

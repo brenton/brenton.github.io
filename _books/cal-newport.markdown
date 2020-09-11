@@ -5,8 +5,6 @@ author: Cal Newport
 rating: 9
 ---
 
-Author: {{ page.author}}
-
 These books each deserve their own review and I may write them eventually.  I
 read them all around the same time earlier this year and, given they follow a
 theme, it seems reasonable to mention them together here.  Reflecting now

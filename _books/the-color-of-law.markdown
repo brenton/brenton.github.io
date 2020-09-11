@@ -1,14 +1,10 @@
 ---
-layout: page
+layout: book
 title: The Color Of Law
 subtitle: A Forgotten History of How Our Government Segregated America
 author: Richard Rothstein
 rating: 10
 ---
-
-*{{ page.subtitle }}*
-
-Author: {{ page.author}}
 
 This marks one of a handful of books that will be required reading for my
 children should they wish to graduate from homeschool.  The message is so

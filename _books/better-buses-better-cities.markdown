@@ -6,8 +6,6 @@ subtitle: How to Plan, Run, and Win the Fight for Effective Transit
 rating: 7
 ---
 
-Author: {{ page.author}}
-
 If you know me, you probably know that I enjoy riding my bike.  So much so
 that, for a number of years, I probably would have tried to convince you to
 scrap your automobile, buy a steel bike and join me to SAVE THE WORLD.  As

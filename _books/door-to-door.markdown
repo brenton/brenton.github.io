@@ -6,10 +6,6 @@ author: Edward Humes
 rating: 7
 ---
 
-*{{ page.subtitle }}*
-
-Author: {{ page.author}}
-
 I read this book in 2019 and it has surprisingly helped me understand the
 transportation crises we've seen as a result of Covid.  Why did it take two
 months for my baby's bicycle seat to arrive from Europe?  Surprise!

@@ -1,15 +1,10 @@
 ---
-layout: page
+layout: book
 author: Johann Hari
 title: Lost Connections
 subtitle: Uncovering the Real Causes of Depression - and the Unexpected Solutions 
 rating: 9
 ---
-
-*{{ page.subtitle }}*
-
-Author: {{ page.author}}
-
 <!--
 lack of male friends
 design of cities
