@@ -18,9 +18,14 @@ an attempt to avoid more such awkward moments.
   {% assign books = site.books | sort: "rating" | reverse %}
   {% for book in books %}
     <li>
-      <a href="{{ book.url }}">{{ book.title }}</a>
-      <p>Rating: {{ book.rating }}/10</p>
-      <p>{{ book.excerpt }}</p>
+      <p>
+      <a href="{{ book.url }}">{{ book.title }}</a><br />
+      {% if book.subtitle %}
+      <em>{{ book.subtitle }}</em><br />
+      {% endif %}
+      By {{ book.author }}<br />
+      {{ book.rating }}/10
+     </p>
     </li>
   {% endfor %}
 </ul>
