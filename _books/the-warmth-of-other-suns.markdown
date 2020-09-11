@@ -6,9 +6,9 @@ author: Isabel Wilkerson
 subtitle: The Epic Story of America's Great Migration
 ---
 
-"Why would they smash all the windows downtown?", my daughter asked in the aftermath of George Floyd's murder.  I don't remember the answer I gave at the time.  I'm sure it wasn't very good.
+"Why would they smash all the windows downtown?", my daughter asked in the aftermath of George Floyd's murder.  I don't remember the answer I gave at the time.  I'm sure it wasn't very good.  _{{ page.title }}_ was exactly the book I needed to wake up from my ignorance.  
 
-The truth is, I barely understand how we got here, much less what we can do about it.  _{{ page.title }}_ was exactly the book I needed to wake up from my ignorance.  After waiting nearly three months for my copy to arrive at the local library, I was excited begin my own epic journey through it's pages.
+After waiting nearly three months for my copy to arrive at the local library, I began my own epic journey through it's pages.
 
 My excitement quickly turned to reverence.  Three pages into {{ page.author }}'s book I had to stop.  I simply could not read any more.  Not until I found my kids and told them that I wanted to read this book to them aloud.  Actually, I said I  _needed_ to read this book to them.  The subject simply could not wait. "This book will help us understand why the windows are smashed downtown."
 
