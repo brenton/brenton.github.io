@@ -20,4 +20,4 @@ Well played, kids.  Give your armchair economist dad a taste of his espoused mar
 
 But oh how quickly the economist forgets that even they have two hands!  Our world may be heavily skewed towards our egoistic rational right hand, but the oft shunned irrational left, likewise, holds society together.  Known more broadly as behavioral economics, this hand is the bond that leads us to rescue a stranded friend for a high five instead of a fiver.
 
-Now, lest my kids read this someday and call me a liar, I admit the part about charging me for icepacks was indeed made up.  I'll never forget how they have served me in my time of weakness.  Even if payment for chores is pretty rare in our household, I was so touched I did decide to pay them (though not the market rate of course—Dan taught me how to spend smarter).
+Now, lest my kids read this someday and call me a liar, I admit the part about charging me for icepacks was indeed made up.  I'll never forget how they have served me in my time of weakness.  Even if payment for chores is pretty rare in our household, I was so touched I did decide to pay them (though not the market rate of course).
