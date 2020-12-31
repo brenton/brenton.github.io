@@ -19,12 +19,14 @@ an attempt to avoid more such awkward moments.
   {% for book in books %}
     <li>
       <p>
-      <a href="{{ book.url }}">{{ book.title }}</a><br />
+      <a href="{{ book.url }}">{{ book.title }}</a> By {{ book.author }}<br />
       {% if book.subtitle %}
       <em>{{ book.subtitle }}</em><br />
       {% endif %}
-      By {{ book.author }}<br />
-      {{ book.rating }}/10
+      Rating: {{ book.rating }}/10<br />
+      {% if book.takeaway %}
+      Takeaway: {{ book.takeaway }}<br />
+      {% endif %}
      </p>
     </li>
   {% endfor %}
