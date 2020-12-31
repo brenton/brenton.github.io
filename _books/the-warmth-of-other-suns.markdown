@@ -4,6 +4,7 @@ title: The Warmth of Other Suns
 rating: 10
 author: Isabel Wilkerson
 subtitle: The Epic Story of America's Great Migration
+takeaway: There have been other books written about this topic, however, none capture the human heart the way Isabel Wilkerson does.  And that's the key to fixing the problem.
 ---
 
 "Why would they smash all the windows downtown?", my daughter asked in the aftermath of George Floyd's murder.  I don't remember the answer I gave at the time.  I'm sure it wasn't very good.  _{{ page.title }}_ was exactly the book I needed to wake up from my ignorance.  

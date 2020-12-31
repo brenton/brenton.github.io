@@ -3,6 +3,7 @@ layout: book
 title: The High Cost of Free Parking
 author: Donald Shoup 
 rating: 5
+takeaway: Don't bother talking about affordable housing until we tackle our mismanaged parking.
 ---
 
 *Me*: "I just read a fantastic book!"

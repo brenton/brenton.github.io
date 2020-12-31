@@ -4,6 +4,7 @@ title: Just Ride
 rating: 6
 author: Grant Petersen
 subtitle: A Radically Practical Guide to Riding Your Bike
+takeaway: Adding a front basket to my bike changed my life.  Racing culture has failed us.
 ---
 
 I've read a lot of books about cycling and, just like an upright bike with fat tires, this is probably the best allrounder.  Why only a {{ page.rating }}?  Well, to be honest I wouldn't suggest reading most of the other books about bicycles I've read.  That may be the highest you'll ever see from me.  So again, if you were to read only one book about riding a bike this is it.  It's short, funny and will hopefully undo much of the damage we've suffered at the hands of racing industry.

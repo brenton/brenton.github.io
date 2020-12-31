@@ -3,6 +3,7 @@ layout: book
 title: Naked Statistics | Naked Economics | Naked Money
 author: Charles Wheelan
 rating: 7
+takeaway: Financial history is facisinating.  The USA has benefitted more from WWII than I ever imagined.
 ---
 
 I'm pretty sure I read Naked Statistics first but I don't entirely remember

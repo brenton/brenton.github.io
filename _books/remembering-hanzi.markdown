@@ -3,6 +3,7 @@ layout: book
 title: Remembering Simplified Hanzi (books 1 and 2)
 rating: 7
 author: Heisig & Richardson
+takeaway: Learn Chinese (or Japanese) like an adult.  Start with the "hardest" part first.
 ---
 
 I suspect I'll eventually write a number of posts on the subject of learning foreign languages.  For now, if you desire to learn one of the most widely spoken languages in the world, this is one of the few books you need.  Surprisingly, given that I just hinted at this book helping you speak Mandarin Chinese, it is completely divorced from spoken language!  The premise of this book is that there are extraordinary benefits from starting your language journey by learning the "hardest part" first.

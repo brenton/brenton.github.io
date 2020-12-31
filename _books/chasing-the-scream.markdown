@@ -4,6 +4,7 @@ title: Chasing The Scream
 subtitle: The First and Last Days of the War on Drugs
 rating: 10
 author: Johann Hari
+takeaway: The War on Drugs goes back way farther than the Reagan era. Oh, and surprise, it's engineered to keep some people on top and others on the bottom.
 ---
 
 I'm writing these notes in 2020 based on my memory from reading it around a year ago.  This book is highly relevant in a moment where we're thinking hard about the tactics law enforcement should use to protect us.  It's even more relevant when you consider the case the author makes for the racist underpinnings of the more than 100 year history of the War on Drugs.  Add in a recession and I believe there is hope that even the most staunch drug war apologist might rethink some of their beliefs after wrestling with the evidence expounded over the 400 or so pages.

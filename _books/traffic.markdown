@@ -4,6 +4,7 @@ title: Traffic
 subtitle: Why We Drive the Way We Do (and What It Says About Us)
 author: Tom Vanderbilt
 rating: 6
+takeaway: We all drive much worst than we think we do.  In fact, we can't even behave as humans while driving.  Living a life dependent on automobiles has lead to a devaluation of human life.
 ---
 
 I read this book in early 2019, probably the same month I read [Door to

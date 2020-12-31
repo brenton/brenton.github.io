@@ -4,6 +4,7 @@ title: Better Buses Better Cities
 author: Steven Higashide
 subtitle: How to Plan, Run, and Win the Fight for Effective Transit
 rating: 7
+takeaway: Buses are more important for social justice than bikes.  Level of service and routes mean more than fluffy comforts transit agencies often focus on.
 ---
 
 If you know me, you probably know that I enjoy riding my bike.  So much so

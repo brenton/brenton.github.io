@@ -4,6 +4,7 @@ title: The Color Of Law
 subtitle: A Forgotten History of How Our Government Segregated America
 author: Richard Rothstein
 rating: 10
+takeaway: Our neighborhoods are more segregated now than anytime since the civil rights movement started.  Even worse, it's intentional.
 ---
 
 This marks one of a handful of books that will be required reading for my

@@ -4,6 +4,7 @@ author: Johann Hari
 title: Lost Connections
 subtitle: Uncovering the Real Causes of Depression - and the Unexpected Solutions 
 rating: 9
+takeaway: We take pills because it's easier than changing our environment.
 ---
 <!--
 lack of male friends
