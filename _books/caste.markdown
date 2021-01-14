@@ -39,7 +39,7 @@ _HBF_: It's not safe for me.  You're white.  You work at a software company.  It
 
 _DCP_: Yikes.  I'm such a jerk.  I mean, I know these things in my head—and you know I read on this this!—but I still struggle to make even simple connections in real time.  What I mean is, it's easier for me to reflect on the injustice of "big problems" like the industry I work in.  Hundreds of people contribute to the product I work on.  There is one black person on the team.  One.  Everyone I work with knows this is screwed up and hates it.  Still, I'm ignorant to see how something as simple as riding my bike is [steeped in white privilege](https://surlybikes.com/blog/realities_of_a_black_man_in_the_bike_world).  Man... I hope I didn't ruin your day.
 
-_HBF_: Not at all Brenton—I mean—Dominant Caste Protagonist.  Have a great ride!  I'll see you around in 2021.
+_HBF_: Not at all _Brenton_.  Have a great ride!  I'll see you around in 2021.
 
 _On the best of days I can be naive but sincere.  On others I can be a glib jerk._
 
